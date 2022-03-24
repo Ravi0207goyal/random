@@ -1,0 +1,22 @@
+.container{ 
+    padding: 50px 0px 0px 0px; 
+    text-align: center; 
+    width: 768px;
+    max-width: 100%;
+    margin: auto;
+    border: black 2px solid;
+}
+.fx{
+    height: 250px;
+    display: flex;
+    border-top: black 2px solid;
+}
+.fx div:first-child{
+    border-right: black 2px solid;
+}
+.fx div{
+    padding-top: 103px;
+    flex-basis: 50%;
+}.first {
+    padding-bottom: 50px;
+}
